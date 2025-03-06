@@ -1,0 +1,11 @@
+car_Code,car_type,car_Name,brand,color,fuel_type,engin_type,Horsepowr ,transmission_type,price
+1,Luxury Sedan,Mercedes_Bens S_Class,Mercedes-Bens,Obsidian Black Metallic,Petrol,4-liter V8Biturbo,496 HP,9-Speed Automatic,95550.0
+2,Luxury Sedan,Mercedes-Bens S-Class ,Mercedes-Bens,Iridium Silver Metallic,Electric,Electric Motor,516 HP,Single-Speed Automatic,100220.0
+3,SUV,Range Rover Autobiography,Land Rover,Santorini Black,Diesel,3-liter v6-Diesel,254 HP,8-Speed Automatic,130300.0
+4,SUV,Range Rover Autobiography,Land Rover, Fuji White,Petrol,5-Liter V8,557 HP ,8-Speed Automatic,146500.0
+5,Luxury Coupe,Porsche 911 Turbo S ,Porsche,Guards Red ,Petrol,3.8-Liter Flat-six,640 HP ,8-speed PDK Automatic,203500.0
+6,Luxury Coupe,Porsche 911 Turbo S ,Porsche,Sapphire Blue Metallic,Petrol,3.8-liter Flat-six,572 HP ,7-speed manual,204000.0
+7,Luxury Convertible,Bentley Continental GTC ,Bentley,Glacier White  ,Petrol,6-liter W12,626 HP,8-Speed Dual-Clutch Automatic,224225.0
+8,Luxuy Convertible ,Bentley Continental GTC ,Bentley,Beluga Black,Petrol,6-liter W12,626 HP,8-Speed Dual-Clutch,224225.0
+9,Luxuy Sportback ,Audi RS7,Audi,Nardo Gray,Petrol,4-liter V8 BIturbo,591 HP ,8-Speed Automatic ,144000.0
+10,Luxuy Sportback,Audi RS7,Audi,Mythos Black Metallic ,Petrol,4-liter V8 BIturbo ,612 HP ,8-Speed Automatic ,117600.0

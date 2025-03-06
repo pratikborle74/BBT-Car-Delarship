@@ -1,0 +1,13 @@
+Bill_No,Bill_Date,Name,City,car_Name,color,showroom_price,discount,tax,grand_total,engine_type,transmission_type
+1,07-11-2023,Aarav,Valsad,Mercedes_Bens S_Class,Obsidian Black Metallic,95550.0,9555.0,9555.0,95550.0,4-liter V8Biturbo,9-Speed Automatic
+2,07-11-2023,Diya ,Surat,Mercedes-Bens S-Class ,Iridium Silver Metallic,130300.0,2606.0,13030.0,140724.0,Electric Motor,Single-Speed Automatic
+3,07-11-2023,Arjun,Ahmedabad,Range Rover Autobiography,Santorini Black,130300.0,3909.0,13030.0,139421.0,3-liter v6-Diesel,8-Speed Automatic
+4,07-11-2023,Anika ,Vadodara,Range Rover Autobiography, Fuji White,146500.0,5860.0,14650.0,155290.0,5-Liter V8,8-Speed Automatic
+5,07-11-2023,Rohan,Rajkot,Porsche 911 Turbo S ,Guards Red ,203500.0,10175.0,20350.0,213675.0,3.8-Liter Flat-six,8-speed PDK Automatic
+6,07-11-2023,Nisha,vapi,Porsche 911 Turbo S ,Sapphire Blue Metallic,204000.0,12240.0,20400.0,212160.0,3.8-liter Flat-six,7-speed manual
+7,07-11-2023,Kabir,Surat,Bentley Continental GTC ,Glacier White  ,224225.0,15695.75,22422.5,230951.75,6-liter W12,8-Speed Dual-Clutch Automatic
+8,07-11-2023,Aisha,Jamnagar,Bentley Continental GTC ,Beluga Black,224225.0,17938.0,22422.5,228709.5,6-liter W12,8-Speed Dual-Clutch
+9,07-11-2023,radhu,Vapi,Audi RS7,Nardo Gray,144000.0,12960.0,14400.0,145440.0,4-liter V8 BIturbo,8-Speed Automatic 
+10,07-11-2023,devarsh ,Vapi,Audi RS7,Mythos Black Metallic ,117600.0,11760.0,11760.0,117600.0,4-liter V8 BIturbo ,8-Speed Automatic 
+11,07-11-2023,Aarav,Valsad,Audi RS7,Mythos Black Metallic ,117600.0,1176.0,11760.0,128184.0,4-liter V8 BIturbo ,8-Speed Automatic 
+12,2023-11-07,radhu,Vapi,Porsche 911 Turbo S ,Sapphire Blue Metallic,204000.0,24480.0,20400.0,199920.0,3.8-liter Flat-six,7-speed manual
